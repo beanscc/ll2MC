@@ -1,6 +1,6 @@
-// Package ll2MC
-// ll2MC包提供了将将纬度转换为MC坐标的方法
-package ll2MC
+// Package ll2mc
+// ll2mc 包提供了将将纬度转换为MC坐标的方法
+package ll2mc
 
 import (
 	"fmt"

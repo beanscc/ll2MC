@@ -1,4 +1,4 @@
-package ll2MC
+package ll2mc
 
 import (
 	"fmt"
